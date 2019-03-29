@@ -1,0 +1,10 @@
+.newsCards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.singleNewsCard {
+  flex: 1 1 auto;
+}
+.newsCardImage {
+}
